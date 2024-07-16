@@ -27,7 +27,7 @@ Implemented machine learning models include:
 
 - **Logistic Regression**
 - **Decision Trees**
-- **K-Nearest Neighbors (KNN)**
+- Support Vector Machines (SVM)
 
 Each model's performance is evaluated to determine the most effective algorithm for iris classification.
 
